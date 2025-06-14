@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="frst-auth-cli",
-    version="0.1.0",
+    version="1.0.1",
     description="CLI to manage and verify user and app permissions on the FRST platform.",  # noqa E501
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
